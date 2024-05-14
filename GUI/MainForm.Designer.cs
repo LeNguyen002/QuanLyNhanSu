@@ -85,7 +85,7 @@
             this.pnLoad.Location = new System.Drawing.Point(1, 170);
             this.pnLoad.Margin = new System.Windows.Forms.Padding(4);
             this.pnLoad.Name = "pnLoad";
-            this.pnLoad.Size = new System.Drawing.Size(1305, 589);
+            this.pnLoad.Size = new System.Drawing.Size(1327, 851);
             this.pnLoad.TabIndex = 3;
             // 
             // label3

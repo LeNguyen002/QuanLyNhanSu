@@ -41,9 +41,9 @@ namespace GUI
                 btnPhongBan.Enabled = false;
                 btnChamCong.Enabled = false;
                 btnChucVu.Enabled = false;
-                //button5.Enabled = false;
+                button5.Enabled = false;
                 button6.Enabled = false;
-                //btTKLuong.Enabled = false;
+                btTKLuong.Enabled = false;
                 btPhuCap.Enabled = false;
                 brnChamCong.Enabled = false;
             }
